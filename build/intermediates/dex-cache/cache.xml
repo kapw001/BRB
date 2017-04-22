@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.0_d600f980ae8d715b8370bb891fda9a5a75515eeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_dd831a061feeff2cf56a3ec0224a25cc358b6f65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_b7fb8b5526dd7bde9f9f18061f5542935b6287a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/7.2.2/b6975e439e0b44984098d1e5eb9f422ce1431ecb/libphonenumber-7.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b6975e439e0b44984098d1e5eb9f422ce1431ecb">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/libphonenumber-7.2.2_eb323cba5b395060fa0a2a0db231ac75d217c0d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_0f100ee4f1d5c6d831738d46b5701e0d0658f2e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="18e52280643effbab30370b073e456d670a0db54">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.2.0_327036e60d16521d16f1ec994cdf4037d623fda8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="811202a9098047576814fc2171b56b83b537a8b9">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.2.0_fdf1b0eee0532e33164a7e6e9b3e820791b26892/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_e741effc2f34d85491005cf3be95fcd7c2b268b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf53ff4d4c7d13f1e478c828e64cdb8cd207a0b">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1a7cde49f2a287a9fe6002be9bd08ae4b73575b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.0_2739c79e78bb6fa7c76475d24f699c94ee75a54c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="535d4497b5fa5d451e07a043e9e220d5c25ab7c7">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.2.0_ba1bbe7b562092459f5822c81a7f352d1637dded/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_e38303effaedcc28af95d794c3c43ca3bcbcd59a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/androidstudio/androidstudio/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_19088c01fc201b105baefb5b73f1efde74aca2b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.amitshekhar.android/android-networking/0.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e580ed5da13f6d79688e4b91eb64977cf04428a4">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.amitshekhar.android-android-networking-0.0.1_b34cea0b746b83c406a23cdc7948b3265030be25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7428f0d1debdcf1b5792a26146e51a38d992d04d">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.2.0_bf0c0df7faf8966e8b1cb20d5f1403454e12d0a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.kyleduo.switchbutton/library/1.4.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="51df8068d5bc0e16dd932359840c6c63b908502d">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.kyleduo.switchbutton-library-1.4.1_7de9d597a5fc271098f55dc0e3925a636a910e58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_2f542806827879b9577336ec04b55326d6dd99b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_a26475cee387090122e64a96951d72aa29a599aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.0_34d52e92c6b820f3a8a2a9918d7f6fac87c7c436/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_46d1533c822db2046c71a310387b2bd14da882e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_b88883a057a7c1e61144989983e6cf622f6218e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.0_eafa413841039318d7ed87ae5fa7891b858d61ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_c8dd858172f0bf43bdaab7dbdf11dd03e1aeae81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_bf6cc39a7d20453102e75241af69e4d554c35176/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0e05445e291c7957c30de9685913b71d3bdca6b2">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_217b05a546349ac55b96bb2086bbc7d80fa9b0b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbb50f7f89342c915898c9376a67229e2fcee286">
+        <dex dex="/home/yasar/My Android Projects/BRB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.2.0_2bea39afe16ceaff45785de4298b0b4d5940a427/classes.dex" />
+    </item>
+
+</items>

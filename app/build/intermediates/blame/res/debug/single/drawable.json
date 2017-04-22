@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/spinner_bg.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/spinner_bg.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/flat.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/flat.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/roundedbutton.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/roundedbutton.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/shelp4.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/shelp4.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/call.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/call.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/thumbcolor.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/thumbcolor.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/selected.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/selected.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/shelp8.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/shelp8.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/switchtrack.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/switchtrack.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/help3.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/help3.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/shelp3.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/shelp3.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/skip.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/skip.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/dropdown_spinner.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/dropdown_spinner.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/dropdown_spinner_pressed.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/dropdown_spinner_pressed.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/shelp6.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/shelp6.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/help2.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/help2.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/selecteditem_dot.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/selecteditem_dot.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/toggle_selector.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/toggle_selector.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/shelp1.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/shelp1.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/unselected.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/unselected.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/flaticoncheck.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/flaticoncheck.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/shelp10.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/shelp10.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/actionbar_space_between_icon_and_title.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/actionbar_space_between_icon_and_title.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/help1.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/help1.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/shelp5.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/shelp5.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/btn_round_semitransperant.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/btn_round_semitransperant.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/alarms.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/alarms.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/dismis.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/dismis.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/switchthumb.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/switchthumb.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/dropdown_spinner_selected.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/dropdown_spinner_selected.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/brb3.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/brb3.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/shelp2.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/shelp2.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/whatsappimag_opt.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/whatsappimag_opt.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/shelp7.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/shelp7.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/nonselecteditem_dot.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/nonselecteditem_dot.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/think42.png",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/drawable/think42.png"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/drawable/ksw_md_thumb.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.kyleduo.switchbutton/library/1.4.1/res/drawable/ksw_md_thumb.xml"
+    }
+]

@@ -1,0 +1,101 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- android:textColorSecondary is the color of the menu overflow icon (three vertical dots) -->
+        <!--<item name="android:textColorSecondary">#000000</item>-->
+        <item name="android:logo">@drawable/actionbar_space_between_icon_and_title</item>
+        <!--<item name="android:actionOverflowButtonStyle">@style/OverFlow</item>-->
+
+    </style>
+
+    <style name="OverFlow">
+        <item name="android:src">@mipmap/ic_launcher</item>
+
+    </style>
+
+    <style name="Widget.MyApp.HeaderBar.Spinner" parent="Widget.AppCompat.Light.Spinner.DropDown.ActionBar">
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:dropDownSelector">?android:selectableItemBackground</item>
+        <item name="android:divider">@null</item>
+        <item name="android:overlapAnchor">true</item>
+    </style>
+
+    <style name="FullScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <!-- android:textColorSecondary is the color of the menu overflow icon (three vertical dots) -->
+        <item name="android:textColorSecondary">#000000</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverFlow</item>
+    </style>
+
+
+    <style name="CustomSwitch">
+        <!-- NOTE this way the switch will be as width as required minimally -->
+        <item name="android:switchMinWidth">0dp</item>
+        <item name="android:track">@drawable/switchtrack</item>
+        <item name="android:thumb">@drawable/switchthumb</item>
+
+        <!-- NOTE if set to 0dp, the thumb was not visible even with padding
+                  of the thumb drawable set to -->
+        <item name="android:thumbTextPadding">@dimen/switch_thumb_radius</item>-->
+        <!--<item name="android:thumbTextPadding">0dp</item>-->
+    </style>
+
+
+    <style name="SwitchButtonStyleMD" parent="SwitchButtonMD">
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+    </style>
+
+    <style name="SwitchButtonStyle" parent="SwitchButtonMD1">
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+
+    </style>
+
+    <style name="SwitchButtonMD1">
+        <item name="kswThumbColor">@drawable/ksw_md_back_color</item>
+
+    </style>
+
+
+    <style name="SwitchButtonMD">
+        <item name="kswThumbDrawable">@drawable/ksw_md_thumb</item>
+        <item name="kswBackColor">@color/ksw_md_back_color</item>
+        <item name="kswBackMeasureRatio">1.65</item>
+        <item name="kswThumbMarginLeft">-16dp</item>
+        <item name="kswThumbMarginTop">-14dp</item>
+        <item name="kswThumbMarginRight">-16dp</item>
+        <item name="kswThumbMarginBottom">-14dp</item>
+        <item name="kswThumbWidth">@dimen/ksw_md_thumb_ripple_size</item>
+        <item name="kswThumbHeight">@dimen/ksw_md_thumb_ripple_size</item>
+    </style>
+
+
+    <style name="MooTheme" parent="AppTheme">
+        <item name="android:spinnerItemStyle">@style/MooSpinnerItem</item>
+        <!-- android:textColorSecondary is the color of the menu overflow icon (three vertical dots) -->
+        <!--<item name="android:textColorSecondary">#000000</item>-->
+        <!--<item name="android:actionOverflowButtonStyle">@style/OverFlow</item>-->
+    </style>
+
+    <style name="MooSpinnerItem" parent="android:Widget.TextView.SpinnerItem">
+        <item name="android:textAppearance">@style/MooTextAppearanceSpinnerItem</item>
+    </style>
+
+    <style name="MooTextAppearanceSpinnerItem" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+        <item name="android:textColor">@color/lighecolorblack</item>
+    </style>
+</resources>

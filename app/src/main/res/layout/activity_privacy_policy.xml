@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.berightback.PrivacyPolicyActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="BRB"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:lineSpacingExtra="2dp"
+                android:text="Terms and Conditions (“Terms”) \n\nLast Updated: July 25, 2016 \n\nPlease read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the BRB mobile application (the “Service”) operated by Think42 Labs. \n\nYour access to and use of the Service is conditioned on your acceptance of and compliance with these terms. These Terms apply to all visitors, users and others who access or use the Service. \n\nBy accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Terms – Copyright, Content, Links to Other WebSites, and Changes."
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Copyright"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:lineSpacingExtra="2dp"
+                android:text="All copyright, trademarks, design rights, patents and other intellectual property rights (registered and unregistered) in and on BRB Online Services and BRB Content belong to Think42 Labs and/or third parties (which may include you or other users.) The BRB reserves all of its rights in BRB Content and BRB Online Services. Nothing in the Terms grants you a right or licence to use any trade mark, design right or copyright owned or controlled by the BRB or any other third party except as expressly provided in the Terms." />
+
+            <TextView
+                android:layout_width="match_parent"
+
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Content"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:lineSpacingExtra="2dp"
+                android:text="You retain all of your ownership rights in your Content, but you are required to grant limited license rights to Think42 Labs and other users of the Service. \n\nYou understand and agree that you are solely responsible for your own Content and the consequences of posting or publishing it. Think42 Labs does not endorse any Content or any opinion, recommendation, or advice expressed therein, and Think42 Labs expressly disclaims any and all liability in connection with Content. \n\nYou agree that you will not post or upload any Content which contains material which it is unlawful for you to possess in the country in which you are resident, or which it would be unlawful for YouTube to use or possess in connection with the provision of the Service.\n\nAlso please be notified that while personalizing the messages, it will get delivered to the recipient, with the same name as you have saved in your contact list. E.g., if you have saved your boss’ name as Bill (short form) instead of his first name William (full name), the message will go as “Hi Bill….”." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Links To Other Web Sites"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:lineSpacingExtra="2dp"
+                android:text="Our Service may contain links to third-party web sites or services that are not owned or controlled by Think42 Labs.\n\nThink42 Labs has no control over, and assumes no responsibility for, the content,privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Thnk42 Labs shall not be responsible or liable,directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Changes"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:lineSpacingExtra="2dp"
+                android:text="We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least ====60 days’ notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Contact Us"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:lineSpacingExtra="2dp"
+                android:text="If you have any questions about these Terms, please contact us at ======info@think42labs.com" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

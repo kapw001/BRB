@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/menu/helpmenu.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/menu/helpmenu.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/menu/main.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/xml/app_tracker.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/xml/app_tracker.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/xml/device_admin_sample.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/xml/device_admin_sample.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/debug/xml/serviceconfig.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/xml/serviceconfig.xml"
+    }
+]

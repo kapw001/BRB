@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/customactionbar.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/customactionbar.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/activity_privacy_policy.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/activity_privacy_policy.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/notificationview.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/notificationview.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/pager_item.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/pager_item.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/activity_main2.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/activity_about.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/activity_privacy_policywebview.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/activity_privacy_policywebview.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/privacypolicynew.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/privacypolicynew.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/activity_unlock_screen.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/activity_unlock_screen.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/simple_spinner_dropdown_item.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/activity_help1.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/activity_help1.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/spinnerlayout.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/spinnerlayout.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/activity_mainbackup.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/activity_mainbackup.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/testscreenlog.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/testscreenlog.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/pager_itemimage.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/pager_itemimage.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/activity_help.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/activity_help.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/splashscreenhelppage.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/src/main/res/layout/splashscreenhelppage.xml"
+    },
+    {
+        "merged": "/home/yasar/My Android Projects/BRB/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/yasar/My Android Projects/BRB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    }
+]

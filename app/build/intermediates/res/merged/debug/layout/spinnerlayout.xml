@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="8dp"
+        android:ellipsize="marquee"
+        android:text="The idea is to copy the android.R.layout.simple_spinner_dropdown_item layout to your project. Then modify it by setting singleLine attribute to false in CheckedTextView"
+        android:textAlignment="inherit" />
+
+</RelativeLayout>

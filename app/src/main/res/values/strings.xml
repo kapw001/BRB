@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BeRightBack</string>
+    <string name="choose_application">Choose Application</string>
+    <string name="accessibility_description">When BRB is on, it is your personal assistant who helps you to compose with a short friendly WhatsApp message of your contacts, when you are unable to answer a call.\n\nBRB will compose message of your contacts chats window and it won’t send automatically without your consent.\n\nThese personalised messages will make your contacts realise how special they are. Also, it sends the message that you do care about responding back to them, in spite of you being busy.</string>
+    <string name="gcm_defaultSenderId">53462429333</string>
+    <string-array name="Msg">
+        <item>I am in a movie. Will call you shortly.</item>
+        <item>Thanks for calling. I will return your call as soon as possible.</item>
+        <item>Sorry couldn\'t pick your call. I will return your call in a while.</item>
+        <!--<item>Sorry couldn\'t pick your call. I will call you back</item>-->
+        <!--<item>Sorry couldn\'t pick your call. I am in meeting</item>-->
+        <!--<item>I am busy right now.I will call u later!</item>-->
+        <!--<item>I am driving.I will catch you later!</item>-->
+    </string-array>
+    <string name="driving">I am driving.I will catch you later!</string>
+    <string-array name="reninderDelays">
+        <item>3 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>30 min</item>
+    </string-array>
+    <string name="helpfirsttext">
+        BRB is simple app, which helps you to reject/decline a call with a personalized message composed on WhatsApp chat window of your dialer contact.\n(E.g: If you are in a meeting, and you get a call from your friend John and you rejected the call. BRB helps to compose a personalized message like,\n<b><i>\"John,\nSorry couldn’t pick up your call will call you at the earliest\"</i></b>.\nOn your WhatsApp chat window for John and just tap to Send.)
+    </string>
+    <string name="brb">Terms and Conditions (“Terms”)\n\nLast Updated: July 25, 2016\n\nPlease read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the BRB mobile application (the “Service”) operated by Think42 Labs.\n\nYour access to and use of the Service is conditioned on your acceptance of and compliance with these terms.  These Terms apply to all visitors, users and others who access or use the Service.\n\nBy accessing or using the Service you agree to be bound by these Terms.  If you disagree with any part of the terms then you may not access the Service.</string>
+    <string name="Terms">Terms – Copyright, Content, Links to Other WebSites, and Changes.</string>
+    <string name="Copyright">Copyright</string>
+    <string name="Copyrightcontent">All copyright, trademarks, design rights, patents and other intellectual property rights (registered and unregistered) in and on BRB Online Services and BRB Content belong to Think42 Labs and/or third parties (which may include you or other users.) The BRB reserves all of its rights in BRB Content and BRB Online Services.  Nothing in the Terms grants you a right or licence to use any trade mark, design right or copyright owned or controlled by the BRB or any other third party except as expressly provided in the Terms.</string>
+    <string name="Content">Content</string>
+    <string name="ContentContent">You retain all of your ownership rights in your Content, but you are required to grant limited license rights to Think42 Labs and other users of the Service.\n\nYou understand and agree that you are solely responsible for your own Content and the consequences of posting or publishing it.  Think42 Labs does not endorse any Content or any opinion, recommendation, or advice expressed therein, and Think42 Labs expressly disclaims any and all liability in connection with Content.\n\nYou agree that you will not post or upload any Content which contains material which it is unlawful for you to possess in the country in which you are resident, or which it would be unlawful for BRB/Think42 Labs to use or possess in connection with the provision of the Service.\n\nAlso please be notified that while personalizing the messages, it will get delivered to the recipient, with the same name as you have saved in your contact list.  E.g., if you have saved your boss’ name as Bill (short form) instead of his first name William (full name), the personalized message will go as “Hi Bill….”.</string>
+    <string name="Links">Links To Other Web Sites</string>
+    <string name="Linkscontent">Our Service may contain links to third-party web sites or services that are not owned or controlled by Think42 Labs.\n\nThink42 Labs has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services.  You further acknowledge and agree that Thnk42 Labs shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</string>
+    <string name="Changes">Changes</string>
+    <string name="Changescontent">We reserve the right, at our sole discretion, to modify or replace these Terms at any time.  If a revision is material we will try to provide at least 30 days’ notice prior to any new terms taking effect.  What constitutes a material change will be determined at our sole discretion.</string>
+    <string name="ContactUs">Contact Us</string>
+    <string name="ContactUscontent">If you have any questions about these Terms, please contact us at <a href="mailto:info@think42labs.com?subject=Think42labs - Contact Us">info@think42labs.com</a></string>
+
+</resources>
